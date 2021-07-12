@@ -1,4 +1,4 @@
-# movie_app_2
+# movie_app
 
 A new Flutter application.
 
